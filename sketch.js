@@ -53,8 +53,6 @@ function draw() {
       rect(ghostX, ghostY, ghostX2, ghostY2);
     }
   }
-
-
 }
 
 function startDetecting() {
